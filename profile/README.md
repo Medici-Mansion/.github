@@ -1,4 +1,4 @@
-![medici_banner](https://github.com/Medici-Mansion/.github/assets/73725736/e4abd06b-d31c-461b-82d4-4f4b03aaf9e4)
+![medici_banner_2](https://github.com/Medici-Mansion/.github/assets/73725736/83c05c8d-fae3-4dca-a4f6-66a44c32d14e)
 
 <!--
 
