@@ -1,4 +1,5 @@
-![banner_크리스마스](https://github.com/Medici-Mansion/.github/assets/73725736/f2ea779b-d88a-43ec-aab6-d02a4e89effb)
+![메디치신년배너](https://github.com/Medici-Mansion/.github/assets/73725736/cbfbbb1d-1da3-4a13-9987-c1dd210429d1)
+<!-- ![banner_크리스마스](https://github.com/Medici-Mansion/.github/assets/73725736/f2ea779b-d88a-43ec-aab6-d02a4e89effb) -->
 
 
 <!-- ![medici_banner_2](https://github.com/Medici-Mansion/.github/assets/73725736/83c05c8d-fae3-4dca-a4f6-66a44c32d14e) -->
